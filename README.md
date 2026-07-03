@@ -101,8 +101,21 @@ VITE_API_BASE_URL=http://localhost:8000
 
 ## Screenshots
 
-(Add screenshots here)
+### Login
 
+![Login Page](Login.png)
+
+### Register
+
+![Register](Register.png)
+
+### Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Analysis
+
+![Analysis](Analysis.png)
 ---
 
 ## Author
