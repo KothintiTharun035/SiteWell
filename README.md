@@ -86,9 +86,9 @@ npm run dev
 
 ```
 PORT=8000
-MONGO_URI=mongodb://sitewelladmin:Adminsitewell@ac-cmnb9y2-shard-00-00.z8654ur.mongodb.net:27017,ac-cmnb9y2-shard-00-01.z8654ur.mongodb.net:27017,ac-cmnb9y2-shard-00-02.z8654ur.mongodb.net:27017/?ssl=true&replicaSet=atlas-6pspbe-shard-0&authSource=admin&appName=Cluster0
-JWT_SECRET=sitewell@2026
-PAGESPEED_API_KEY=AIzaSyDZg604MVLLbu1wO8kqjLbfV2ZI8DB_7t4
+MONGO_DB_URL=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PAGESPEED_API_KEY=your_api_key
 ```
 
 ### Frontend (.env)
